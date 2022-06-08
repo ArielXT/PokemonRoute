@@ -43,7 +43,7 @@ const Pokemons = () => {
     return (
         <div className="Rotomdex">
             <div className="container-title">
-                <h1>Lista De Pokémons</h1>
+                <h1>Lista De Pokémons : DEVELOPER MODE ACTIVADED</h1>
             </div>
             <div className="dropdown">
                 <select name="" id="" onChange={handleOnChangePokemon}>

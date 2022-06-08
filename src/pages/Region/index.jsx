@@ -24,7 +24,7 @@ const Region = () => {
                 <br />
                 <Grid container spacing={3}>
                     <Grid item xs={12}>
-                        <h1>Regiones de Pokemon</h1>
+                        <h1>Regiones de Pokemon : DEVELOPER MODE ACTIVADED</h1>
                     </Grid>
                     <Grid item xs={4}>
                         <Card sx={{ maxWidth: 345 }}>

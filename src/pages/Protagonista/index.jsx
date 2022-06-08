@@ -210,7 +210,7 @@ const Protagonista = () => {
                 <br />
                 <Grid container spacing={3}>
                     <Grid item xs={12}>
-                        <h1>Protagonistas de Pokemon</h1>
+                        <h1>Protagonistas de Pokemon : DEVELOPER MODE ACTIVADED</h1>
                     </Grid>
                     <Grid item xs={4}>
                         <h3>Kanto</h3>

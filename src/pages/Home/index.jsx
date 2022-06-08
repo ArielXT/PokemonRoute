@@ -31,7 +31,7 @@ const Home = () => {
             <form action="" onSubmit={handleSendData}>
                 <Grid container spacing={3}>
                     <Grid item xs={12}>
-                        <h1>Home DEVELOPER MODE ACTIVADED</h1>
+                        <h1>Home : DEVELOPER MODE ACTIVADED</h1>
                     </Grid>
                     <Grid item xs={6}>
                         <TextField label="Ingrese su Correo" name="email"  fullWidth onChange={handleInputChange}/>
